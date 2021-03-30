@@ -1,7 +1,7 @@
 This is the main project directory.
 
 The codebase includes:
-1. FYP  dApp - A Hyperledger Smart Contract System
-2. FYP MainSystem - Off-Chain System
-3. FYP Oracle - The oracle System
-4. FYP Parser - The parser of the designed language. 
+1. Smart Contract system - A Hyperledger Smart Contract System
+2. Off-Chain system - Node JS server
+3. Oracle system - NestJS daemon
+4. Parser - ANTLR parser 
