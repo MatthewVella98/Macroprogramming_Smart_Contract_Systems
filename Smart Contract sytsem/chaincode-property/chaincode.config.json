@@ -1,0 +1,1 @@
+{"controllers":[{"name":"property-cc","version":"file:./packages/property-cc","controller":"PropertyController"},{"name":"participant-cc","version":"file:./packages/participant-cc","controller":"ParticipantController"}]}
